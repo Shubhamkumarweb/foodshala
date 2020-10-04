@@ -126,6 +126,7 @@ nav{
 {
     content:"";
     background:url('../img/table.jpg') no-repeat;
+    background-size:cover;
     position:absolute;
     top:0px;
     height:100%;
